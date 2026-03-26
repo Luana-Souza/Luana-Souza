@@ -1,7 +1,7 @@
 ## Olá! eu sou a Luana de Souza Viana 👋
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Frontend`**
 
-Me chamo Luana de Souza Viana, tenho 24 anos e sou natural de Rio Verde, Mato Grosso do Sul. Atualmente, estou cursando Sistemas de Informação na UFMS. Sou apaixonada por tecnologia aqui no meu perfil você pode conferir alguns dos meus projetos.
+Me chamo Luana de Souza Viana, tenho 25 anos e sou natural de Rio Verde, Mato Grosso do Sul. Atualmente, sou recén formada em  Sistemas de Informação na UFMS. Sou apaixonada por tecnologia aqui no meu perfil você pode conferir alguns dos meus projetos.
 
 ---
 
